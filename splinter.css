@@ -1,0 +1,19 @@
+
+
+
+
+h1 {
+  font-size: 72px;
+  text-align: center;
+  font-weight: bold;
+  background: -webkit-radial-gradient(#BDDA63,#4AC455);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #4AC455;
+}
+
+body {
+	background-color: black;
+	width: 100%;
+	height: 1000px;
+}
